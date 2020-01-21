@@ -1,0 +1,13 @@
+Sensor Rankings based on the f1-scores Decision Tree Classifier:
+------------------------------------------ 
+
+1. Sensor 6 - ave f1-score was: 0.9954
+2. Sensor 1 - ave f1-score was: 0.8972
+3. Sensor 8 - ave f1-score was: 0.8816
+4. Sensor 2 - ave f1-score was: 0.8697
+5. Sensor 4 - ave f1-score was: 0.836
+6. Sensor 0 - ave f1-score was: 0.8098
+7. Sensor 3 - ave f1-score was: 0.7034
+8. Sensor 5 - ave f1-score was: 0.6998
+9. Sensor 9 - ave f1-score was: 0.66
+10. Sensor 7 - ave f1-score was: 0.6046
